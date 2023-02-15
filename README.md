@@ -12,8 +12,8 @@
 	  <img src="https://img.shields.io/badge/Python-3776AB?style={flat}&logo=python&logoColor=white"/> 
 	</a>
 </p>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanaloa21&layout=compact&theme=nord)[](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanaloa21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   	게임서버프로그래머가 되기 위해	
 	C++, 소켓네트워크, IOCP, DB, Cloud, Linux를 공부중입니다.
